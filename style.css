@@ -1,0 +1,62 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #3B3B3B;
+	color: white;
+	padding: 20px;
+}
+
+h1 {
+	margin: 0;
+	font-size: 36px;
+}
+
+#introduction {
+	padding: 20px;
+}
+
+#publications {
+	padding: 20px;
+}
+
+h2 {
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 20px;
+	position: relative;
+}
+
+h3 {
+	margin: 0;
+}
+
+button.expand {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+button.collapse {
+	display: block;
+	margin-top: 20px;
+}
+
+.details img {
+	max-width: 600px;
+	max-height: 600px;
+	width: auto;
+	height: auto;
+}
+
